@@ -1,4 +1,4 @@
-# converters.js
+# coolverters.js
 Simple library to convert different based numbers.
 ## Example
 Decimal -> Binary
