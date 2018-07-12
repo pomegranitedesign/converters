@@ -1,14 +1,14 @@
 {
   "name": "baseConverter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple library to convert numbers.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --watch"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dmitriy Shin",
+  "license": "MIT",
   "dependencies": {
     "mocha": "^5.2.0"
   }
