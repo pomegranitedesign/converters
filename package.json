@@ -1,5 +1,5 @@
 {
-  "name": "baseConverter",
+  "name": "coolverters.js",
   "version": "1.0.0",
   "description": "Simple library to convert numbers.",
   "main": "index.js",
